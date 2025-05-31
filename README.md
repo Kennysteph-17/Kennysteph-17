@@ -1,7 +1,7 @@
 i started my journey of data analyst with DSA.
 
 # Projects
-
+*Sales Analysis*
 # 🧾 Customer Orders Analysis (SQL)
 
 ## 📌 Objective
