@@ -7,15 +7,15 @@ i started my journey of data analyst with DSA.
 ## 📌 Objective
 Analyze customer orders to identify top products and customer segments.
 
-## 🔧 Tools
+### 🔧 Tools
 - MySQL / SQLite
 - Excel (for output and visualization)
 
-## 📂 Files
+### 📂 Files
 - `queries.sql`: SQL queries used for joins and aggregations
 - `Orders-Analysis.xlsx`: Exported results and charts
 
-## 📊 Key Analysis
+### 📊 Key Analysis
 - Top 5 Customers by Order Volume
 - Best-selling Products
 - Orders per Region
